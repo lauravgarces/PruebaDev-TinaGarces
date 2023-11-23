@@ -5,7 +5,7 @@ Se debe de tener en cuenta que se necesita Node para la ejecución.
 
 ## Paso 1 y único 👀
 
-Se debe abrir una terminal nueva y en esta terminal se debe poner la siguiente linea de codigo: \
+Se debe abrir una terminal nueva y en esta terminal se debe poner la siguiente linea de codigo: 
 
 `node [NombreDelArchivo].js` 
 
