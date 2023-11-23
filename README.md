@@ -7,6 +7,6 @@ Se debe de tener en cuenta que se necesita Node para la ejecución.
 
 Se debe abrir una terminal nueva y en esta terminal se debe poner la siguiente linea de codigo: \
 
-`node [NombreDelArchivo].js` \
+`node [NombreDelArchivo].js` 
 
 y ya, la consola mostrará el resultado en la terminal
